@@ -1,0 +1,30 @@
+{
+  "country_code": "CHN",
+  "country_name": "China",
+  "population_indicators": {
+    "EN.POP.DNST": {
+      "indicator_name": "Population density (people per sq. km of land area)",
+      "indicator_value": "149.367573167744"
+    },
+    "SP.POP.TOTL.FE.IN": {
+      "indicator_name": "Population, female",
+      "indicator_value": "685480283"
+    },
+    "SP.POP.TOTL.FE.ZS": {
+      "indicator_name": "Population, female (% of total population)",
+      "indicator_value": "48.6934979729146"
+    },
+    "SP.POP.TOTL.MA.IN": {
+      "indicator_name": "Population, male",
+      "indicator_value": "722264717"
+    },
+    "SP.POP.TOTL.MA.ZS": {
+      "indicator_name": "Population, male (% of total population)",
+      "indicator_value": "51.3065020270854"
+    },
+    "SP.POP.TOTL": {
+      "indicator_name": "Population, total",
+      "indicator_value": "1407745000"
+    }
+  }
+}

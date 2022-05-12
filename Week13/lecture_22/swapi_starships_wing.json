@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Y-wing",
+    "model": "BTL Y-wing",
+    "manufacturer": "Koensayr Manufacturing",
+    "cost_in_credits": "134999",
+    "length": "14",
+    "max_atmosphering_speed": "1000km",
+    "crew": "2",
+    "passengers": "0",
+    "cargo_capacity": "110",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "80",
+    "starship_class": "assault starfighter",
+    "pilots": [],
+    "films": [
+      "https://swapi.py4e.com/api/films/1/",
+      "https://swapi.py4e.com/api/films/2/",
+      "https://swapi.py4e.com/api/films/3/"
+    ],
+    "created": "2014-12-12T11:00:39.817000Z",
+    "edited": "2014-12-20T21:23:49.883000Z",
+    "url": "https://swapi.py4e.com/api/starships/11/"
+  },
+  {
+    "name": "X-wing",
+    "model": "T-65 X-wing",
+    "manufacturer": "Incom Corporation",
+    "cost_in_credits": "149999",
+    "length": "12.5",
+    "max_atmosphering_speed": "1050",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "110",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "100",
+    "starship_class": "Starfighter",
+    "pilots": [
+      "https://swapi.py4e.com/api/people/1/",
+      "https://swapi.py4e.com/api/people/9/",
+      "https://swapi.py4e.com/api/people/18/",
+      "https://swapi.py4e.com/api/people/19/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/1/",
+      "https://swapi.py4e.com/api/films/2/",
+      "https://swapi.py4e.com/api/films/3/"
+    ],
+    "created": "2014-12-12T11:19:05.340000Z",
+    "edited": "2014-12-20T21:23:49.886000Z",
+    "url": "https://swapi.py4e.com/api/starships/12/"
+  },
+  {
+    "name": "A-wing",
+    "model": "RZ-1 A-wing Interceptor",
+    "manufacturer": "Alliance Underground Engineering, Incom Corporation",
+    "cost_in_credits": "175000",
+    "length": "9.6",
+    "max_atmosphering_speed": "1300",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "40",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "120",
+    "starship_class": "Starfighter",
+    "pilots": [
+      "https://swapi.py4e.com/api/people/29/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/3/"
+    ],
+    "created": "2014-12-18T11:16:34.542000Z",
+    "edited": "2014-12-20T21:23:49.907000Z",
+    "url": "https://swapi.py4e.com/api/starships/28/"
+  },
+  {
+    "name": "B-wing",
+    "model": "A/SF-01 B-wing starfighter",
+    "manufacturer": "Slayn & Korpil",
+    "cost_in_credits": "220000",
+    "length": "16.9",
+    "max_atmosphering_speed": "950",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "45",
+    "consumables": "1 week",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "91",
+    "starship_class": "Assault Starfighter",
+    "pilots": [],
+    "films": [
+      "https://swapi.py4e.com/api/films/3/"
+    ],
+    "created": "2014-12-18T11:18:04.763000Z",
+    "edited": "2014-12-20T21:23:49.909000Z",
+    "url": "https://swapi.py4e.com/api/starships/29/"
+  },
+  {
+    "name": "V-wing",
+    "model": "Alpha-3 Nimbus-class V-wing starfighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "cost_in_credits": "102500",
+    "length": "7.9",
+    "max_atmosphering_speed": "1050",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "60",
+    "consumables": "15 hours",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "starfighter",
+    "pilots": [],
+    "films": [
+      "https://swapi.py4e.com/api/films/6/"
+    ],
+    "created": "2014-12-20T20:43:04.349000Z",
+    "edited": "2014-12-20T21:23:49.961000Z",
+    "url": "https://swapi.py4e.com/api/starships/75/"
+  },
+  {
+    "name": "X-wing",
+    "model": "T-70 X-wing",
+    "manufacturer": "Incom Corporation",
+    "cost_in_credits": "200000",
+    "length": "12.49",
+    "max_atmosphering_speed": "1100",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "110",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "110",
+    "starship_class": "Starfighter",
+    "pilots": [
+      "https://swapi.py4e.com/api/people/86/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/7/"
+    ],
+    "created": "2020-11-24T11:19:05.340000Z",
+    "edited": "2020-11-25T21:23:49.886000Z",
+    "url": "https://swapi.py4e.com/api/starships/77/"
+  }
+]

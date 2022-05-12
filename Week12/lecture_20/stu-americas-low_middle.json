@@ -1,0 +1,50 @@
+[
+  {
+    "country_name": "Belize",
+    "country_code": "BLZ",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bolivia",
+    "country_code": "BOL",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Honduras",
+    "country_code": "HND",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_code": "NIC",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_code": "SLV",
+    "region": "Latin America & Caribbean",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  }
+]

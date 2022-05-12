@@ -1,0 +1,306 @@
+[
+  {
+    "country_name": "American Samoa",
+    "country_code": "ASM",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Australia",
+    "country_code": "AUS",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "country_code": "BRN",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "China",
+    "country_code": "CHN",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Fiji",
+    "country_code": "FJI",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Micronesia, Fed. Sts.",
+    "country_code": "FSM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Guam",
+    "country_code": "GUM",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Hong Kong SAR, China",
+    "country_code": "HKG",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Indonesia",
+    "country_code": "IDN",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Japan",
+    "country_code": "JPN",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Cambodia",
+    "country_code": "KHM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kiribati",
+    "country_code": "KIR",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Korea, Rep.",
+    "country_code": "KOR",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Lao PDR",
+    "country_code": "LAO",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Macao SAR, China",
+    "country_code": "MAC",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Marshall Islands",
+    "country_code": "MHL",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Myanmar",
+    "country_code": "MMR",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Mongolia",
+    "country_code": "MNG",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Northern Mariana Islands",
+    "country_code": "MNP",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Malaysia",
+    "country_code": "MYS",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "New Caledonia",
+    "country_code": "NCL",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Nauru",
+    "country_code": "NRU",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "NZL",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Philippines",
+    "country_code": "PHL",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Palau",
+    "country_code": "PLW",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "country_code": "PNG",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Korea, Dem. People's Rep.",
+    "country_code": "PRK",
+    "region": "East Asia & Pacific",
+    "income_group": "Low income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "French Polynesia",
+    "country_code": "PYF",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Singapore",
+    "country_code": "SGP",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Solomon Islands",
+    "country_code": "SLB",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Thailand",
+    "country_code": "THA",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Timor-Leste",
+    "country_code": "TLS",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tonga",
+    "country_code": "TON",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tuvalu",
+    "country_code": "TUV",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Taiwan, China",
+    "country_code": "TWN",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Vietnam",
+    "country_code": "VNM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Vanuatu",
+    "country_code": "VUT",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Samoa",
+    "country_code": "WSM",
+    "region": "East Asia & Pacific",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  }
+]

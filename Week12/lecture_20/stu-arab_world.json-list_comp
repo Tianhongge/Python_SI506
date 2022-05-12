@@ -1,0 +1,178 @@
+[
+  {
+    "country_name": "United Arab Emirates",
+    "country_code": "ARE",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Bahrain",
+    "country_code": "BHR",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Comoros",
+    "country_code": "COM",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_code": "DJI",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Algeria",
+    "country_code": "DZA",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Egypt, Arab Rep.",
+    "country_code": "EGY",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Iraq",
+    "country_code": "IRQ",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Jordan",
+    "country_code": "JOR",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Kuwait",
+    "country_code": "KWT",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Lebanon",
+    "country_code": "LBN",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Libya",
+    "country_code": "LBY",
+    "region": "Middle East & North Africa",
+    "income_group": "Upper middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Morocco",
+    "country_code": "MAR",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Mauritania",
+    "country_code": "MRT",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Oman",
+    "country_code": "OMN",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "West Bank and Gaza",
+    "country_code": "PSE",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Qatar",
+    "country_code": "QAT",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_code": "SAU",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "lending_category": null,
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Sudan",
+    "country_code": "SDN",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Somalia",
+    "country_code": "SOM",
+    "region": "Sub-Saharan Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "country_code": "SYR",
+    "region": "Middle East & North Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Tunisia",
+    "country_code": "TUN",
+    "region": "Middle East & North Africa",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  {
+    "country_name": "Yemen, Rep.",
+    "country_code": "YEM",
+    "region": "Middle East & North Africa",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  }
+]

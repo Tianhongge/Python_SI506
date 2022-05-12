@@ -1,0 +1,338 @@
+[
+  {
+    "country_name": "Angola",
+    "country_code": "AGO",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Burundi",
+    "country_code": "BDI",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Benin",
+    "country_code": "BEN",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_code": "BFA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Botswana",
+    "country_code": "BWA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Upper middle income"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_code": "CAF",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Côte d'Ivoire",
+    "country_code": "CIV",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_code": "CMR",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Congo, Dem. Rep.",
+    "country_code": "COD",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Congo, Rep.",
+    "country_code": "COG",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Comoros",
+    "country_code": "COM",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Cabo Verde",
+    "country_code": "CPV",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Eritrea",
+    "country_code": "ERI",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_code": "ETH",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Gabon",
+    "country_code": "GAB",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Upper middle income"
+  },
+  {
+    "country_name": "Ghana",
+    "country_code": "GHA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Guinea",
+    "country_code": "GIN",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Gambia, The",
+    "country_code": "GMB",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_code": "GNB",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_code": "GNQ",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Upper middle income"
+  },
+  {
+    "country_name": "Kenya",
+    "country_code": "KEN",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Liberia",
+    "country_code": "LBR",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Lesotho",
+    "country_code": "LSO",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Madagascar",
+    "country_code": "MDG",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Mali",
+    "country_code": "MLI",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_code": "MOZ",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_code": "MRT",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Mauritius",
+    "country_code": "MUS",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Upper middle income"
+  },
+  {
+    "country_name": "Malawi",
+    "country_code": "MWI",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Namibia",
+    "country_code": "NAM",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Upper middle income"
+  },
+  {
+    "country_name": "Niger",
+    "country_code": "NER",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_code": "NGA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_code": "RWA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Sudan",
+    "country_code": "SDN",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Senegal",
+    "country_code": "SEN",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_code": "SLE",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Somalia",
+    "country_code": "SOM",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_code": "SSD",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "São Tomé and Principe",
+    "country_code": "STP",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Eswatini",
+    "country_code": "SWZ",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Seychelles",
+    "country_code": "SYC",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "High income"
+  },
+  {
+    "country_name": "Chad",
+    "country_code": "TCD",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Togo",
+    "country_code": "TGO",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_code": "TZA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Uganda",
+    "country_code": "UGA",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Low income"
+  },
+  {
+    "country_name": "South Africa",
+    "country_code": "ZAF",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Upper middle income"
+  },
+  {
+    "country_name": "Zambia",
+    "country_code": "ZMB",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_code": "ZWE",
+    "group_name": "Sub-Saharan Africa",
+    "group_code": "SSF",
+    "income_group": "Lower middle income"
+  }
+]

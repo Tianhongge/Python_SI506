@@ -1,0 +1,66 @@
+{
+  "AFG": {
+    "country_name": "Afghanistan",
+    "country_code": "AFG",
+    "region": "South Asia",
+    "income_group": "Low income",
+    "lending_category": "IDA",
+    "emu_or_hipc": "HIPC"
+  },
+  "BGD": {
+    "country_name": "Bangladesh",
+    "country_code": "BGD",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  "BTN": {
+    "country_name": "Bhutan",
+    "country_code": "btn",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  "IND": {
+    "country_name": "India",
+    "country_code": "ind",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  "LKA": {
+    "country_name": "Sri Lanka",
+    "country_code": "LKA",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IBRD",
+    "emu_or_hipc": null
+  },
+  "MDV": {
+    "country_name": "Maldives",
+    "country_code": "MDV",
+    "region": "South Asia",
+    "income_group": "Upper middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  "NPL": {
+    "country_name": "Nepal",
+    "country_code": "npl",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "IDA",
+    "emu_or_hipc": null
+  },
+  "PAK": {
+    "country_name": "Pakistan",
+    "country_code": "PAK",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "lending_category": "Blend",
+    "emu_or_hipc": null
+  }
+}

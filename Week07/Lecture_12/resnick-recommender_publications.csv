@@ -1,0 +1,6 @@
+title,authors,source_title,publication_year,volume,issue,part_number,supplement,beginning_Page,ending_page,doi
+Recommender Systems-Beyond Matrix Completion,"Jannach, Dietmar; Resnick, Paul; Tuzhilin, Alexander; Zanker, Markus",COMMUNICATIONS OF THE ACM,2016,59,11,,,94,102,10.1145/2891406
+The Information Cost of Manipulation-Resistance in Recommender Systems,"Resnick, Paul; Sami, Rahul",RECSYS'08: PROCEEDINGS OF THE 2008 ACM CONFERENCE ON RECOMMENDER SYSTEMS,2008,,,,,147,154,
+Three Recommender Approaches to Interface Controls Reduction,"Oostendorp, Nathan; Resnick, Paul",RECSYS'08: PROCEEDINGS OF THE 2008 ACM CONFERENCE ON RECOMMENDER SYSTEMS,2008,,,,,235,242,
+The Influence Limiter: Provably Manipulation-Resistant Recommender Systems,"Resnick, Paul; Sami, Rahul",RECSYS 07: PROCEEDINGS OF THE 2007 ACM CONFERENCE ON RECOMMENDER SYSTEMS,2007,,,,,25,32,
+Recommender systems,"Resnick, Paul; Varian, HR",COMMUNICATIONS OF THE ACM,1997,40,3,,,56,58,10.1145/245108.245121

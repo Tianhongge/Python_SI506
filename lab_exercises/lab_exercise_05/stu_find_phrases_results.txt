@@ -1,0 +1,7 @@
+('Leadership', True)
+('Africa belongs to all the people who live in it', True)
+('The University of Michigan', False)
+('Sharpeville', True)
+('Umkhonto we Sizwe', True)
+('SI 506', False)
+('School of Information', False)

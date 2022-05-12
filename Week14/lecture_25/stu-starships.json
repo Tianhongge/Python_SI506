@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/starships/2/",
+    "name": "CR90 corvette",
+    "model": "CR90 corvette",
+    "starship_class": "Corvette",
+    "hyperdrive_rating": 2.0,
+    "top_speed_mglt": 81.0,
+    "crew_size": 30,
+    "armament": [
+      "2 x dorsal and ventral dual turbolaser turrets",
+      "4 x Turbolaser cannons"
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/3/",
+    "name": "Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "starship_class": "Star Destroyer",
+    "hyperdrive_rating": 2.0,
+    "top_speed_mglt": 60.0,
+    "crew_size": 37085,
+    "armament": [
+      "60 x Taim & Bak XX-9 heavy turbolaser batteries",
+      "60 x Borstel NK-7 ion cannons",
+      "6 x Dual heavy turbolaser turrets",
+      "2 x Dual heavy ion cannon turrets",
+      "2 x Quad heavy turbolasers",
+      "3 x Triple medium turbolasers",
+      "2 x Medium turbolasers",
+      "40 x Point-defense laser cannons",
+      "10 Heavy Phylon Q7 tractor beam projectors"
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/5/",
+    "name": "Sentinel-class landing craft",
+    "model": "Sentinel-class landing craft",
+    "starship_class": "landing craft",
+    "hyperdrive_rating": 1.0,
+    "top_speed_mglt": 70.0,
+    "crew_size": 5,
+    "armament": null
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/9/",
+    "name": "Death Star",
+    "model": "DS-1 Orbital Battle Station",
+    "starship_class": "Deep Space Mobile Battlestation",
+    "hyperdrive_rating": 4.0,
+    "top_speed_mglt": 10.0,
+    "crew_size": 342953,
+    "armament": null
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/10/",
+    "name": "Millennium Falcon",
+    "model": "YT-1300 light freighter",
+    "starship_class": "Light freighter",
+    "hyperdrive_rating": 1.0,
+    "top_speed_mglt": 75.0,
+    "crew_size": 2,
+    "armament": [
+      "2 x modified Corellian Engineering Corporation AG-2G quad laser cannons",
+      "1 x concealed BlasTech Ax-108 Ground Buzzer surface-defense blaster cannon",
+      "2 x Arakyd ST2 concussion missile tubes (4 missiles each)"
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/11/",
+    "name": "Y-wing",
+    "model": "BTL Y-wing",
+    "starship_class": "Assault starfighter",
+    "hyperdrive_rating": 1.0,
+    "top_speed_mglt": 80.0,
+    "crew_size": 3,
+    "armament": [
+      "2 x Taim & Bak IX4 or KX5 laser cannons",
+      "2 x light ArMek turreted SW-4 ion cannons",
+      "2 x Arakyd Flex Tube proton torpedo launchers (4 torpedoes each)",
+      "Proton bombs"
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/12/",
+    "name": "X-wing",
+    "model": "T-65 X-wing",
+    "starship_class": "Starfighter",
+    "hyperdrive_rating": 1.0,
+    "top_speed_mglt": 100.0,
+    "crew_size": 2,
+    "armament": [
+      "4 x Taim & Bak KX9 or IX4 laser cannons",
+      "2 x Krupx MG7 proton torpedo launchers (3 torpedoes each)"
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/13/",
+    "name": "TIE Advanced x1",
+    "model": "Twin Ion Engine Advanced x1",
+    "starship_class": "Starfighter",
+    "hyperdrive_rating": 4.0,
+    "top_speed_mglt": 105.0,
+    "crew_size": 1,
+    "armament": [
+      "2 x L-s9.3 cannons",
+      " Cluster missle launcher"
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/vehicles/8/",
+    "name": "TIE/LN starfighter",
+    "model": "Twin Ion Engine/LN Starfighter",
+    "starship_class": "Starfighter",
+    "hyperdrive_rating": "",
+    "top_speed_mglt": 100.0,
+    "crew_size": 1,
+    "armament": [
+      "2 x L-s1 cannons"
+    ]
+  }
+]

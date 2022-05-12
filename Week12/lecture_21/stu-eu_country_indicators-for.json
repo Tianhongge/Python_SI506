@@ -1,0 +1,2972 @@
+{
+  "AUT": {
+    "country_code": "AUT",
+    "country_name": "Austria",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.4"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "3.66000008583069"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "25.3600006103516"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "55.4422065446306"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "28.12921617"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "41.56432836"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "445011872704.47"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.04090811975335"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "452529159368.858"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "52.0360207601889"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.53089564152645"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "82520"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.2"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "79.5"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "0.727409410363743"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.9"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "107.609306834707"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "4507562"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.7612861843766"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "4372358"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.2387138156234"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "8879920"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "107.47822730482"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "58.515"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.81791060733558"
+      }
+    }
+  },
+  "BEL": {
+    "country_code": "BEL",
+    "country_name": "Belgium",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.5"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "0.920000016689301"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "20.8400001525879"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "82.1875783601622"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "39.78313988"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "34.06099558"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "535288715239.999"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.59897001717071"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "551600342955.354"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "81.5322756554439"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.43681956996435"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "30280"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "79.6"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "0.893042950353347"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.4"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "379.424702774108"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "5802420"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.5042235569044"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "5686560"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.4957764430955"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "11488980"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "163.719854015606"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "98.041"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.581271660540823"
+      }
+    }
+  },
+  "BGR": {
+    "country_code": "BGR",
+    "country_name": "Bulgaria",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "15.5"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "6.61999988555908"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "30.0200004577637"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "63.9343433467531"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "28.78196785"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "13.93340599"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "68915416141.9576"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "4.77250206361659"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "66240537215.9521"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "60.706086765961"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "3.10372944796774"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "108560"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "78.5"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "71.5"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "3.14847554420995"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "5.5"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "64.2571941783346"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "3587537"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.4286118360593"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "3388224"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.5713881639407"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "6975761"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "124.640430112714"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "75.347"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.252969936337171"
+      }
+    }
+  },
+  "CYP": {
+    "country_code": "CYP",
+    "country_name": "Cyprus",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "7.099"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "2.41000008583069"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "18.4400005340576"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "75.5938487630194"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "36.77533784"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "36.4768018"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "25758357774.5438"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "3.86453264067046"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "25222892827.0965"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "75.3804670772515"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.250370996758456"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "9240"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "83.032"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "78.921"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.60946680567817"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.3"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "129.715800865801"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "599277"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "49.9991656752107"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "599297"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "50.0008343247893"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "1198574"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "150.974315840271"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "66.805"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.772420504098657"
+      }
+    }
+  },
+  "CZE": {
+    "country_code": "CZE",
+    "country_name": "Czech Republic",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "10.5"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "2.66000008583069"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "37.25"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "73.8944533212857"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "34.98494603"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "13.97834957"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "252498032247.163"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "2.62455743475904"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "235968219660.655"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "67.904726969778"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.84787595918047"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "77200"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "82.1"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "76.3"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.16087761547545"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.4"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "138.236658031088"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "5419777"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.7856378201089"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "5252093"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.2143621798911"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "10671870"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "141.799180291064"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "73.921"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.568457638590162"
+      }
+    }
+  },
+  "DEU": {
+    "country_code": "DEU",
+    "country_name": "Germany",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "11.3"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "1.21000003814697"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "27.1800003051758"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "46.6242388472224"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "41.99327095"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "48.373359"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "3888326788627.44"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "0.827864779161388"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "4083213777161.51"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "40.9754271812515"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.4456670146976"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "349380"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "83.4"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "78.6"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.26914686652846"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.2"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "237.829761291431"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "42053302"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.6099449446524"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "41039660"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.3900550553476"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "83092962"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "87.599666028474"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "77.376"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.30826693577482"
+      }
+    }
+  },
+  "DNK": {
+    "country_code": "DNK",
+    "country_name": "Denmark",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.3"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "2.22000002861023"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "18.5499992370605"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "58.9993349662817"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "43.94598914"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "17.3864442"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "347561349210.979"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.7496140950622"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "368962817142.185"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "51.6074689408629"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.758131572511619"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "40000"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "83.2"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "79.3"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.30145491949088"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.2"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "145.36055"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "2923597"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.2818233999096"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "2890825"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.7181766000904"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "5814422"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "110.606803907145"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "87.994"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.494581334948344"
+      }
+    }
+  },
+  "ESP": {
+    "country_code": "ESP",
+    "country_name": "Spain",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "8.8"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "4.03000020980835"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "20.4300003051758"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "34.954655951783"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "33.41391156"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "42.02210696"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "1393046093137.25"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.35796294893549"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "1430361292017.2"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "32.0246710195881"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.699536241717015"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "499603.479"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "86.2"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "80.9"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.23343873416176"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.7"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "94.34185905659"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "23977965"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.8724242075546"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "23155556"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.1275757924454"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "47133521"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "66.9793269713712"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "80.565"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "1.01824366836594"
+      }
+    }
+  },
+  "EST": {
+    "country_code": "EST",
+    "country_name": "Estonia",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "11.6"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "3.17000007629395"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "28.7000007629395"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "74.0465861275791"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "32.53133562"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "24.47014592"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "31045591753.4901"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "3.71028576383254"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "30848499952.7742"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "69.8905247276731"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.27725931243518"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "43470"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "82.8"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "74.4"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "2.02401882148264"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "1.8"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "30.5244536461928"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "699682"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "52.7306247732243"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "627216"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "47.2693752267757"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "1326898"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "143.937110855252"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "69.051"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.619441069729559"
+      }
+    }
+  },
+  "FIN": {
+    "country_code": "FIN",
+    "country_name": "Finland",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.8"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "3.77999997138977"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "21.6399993896484"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "39.8816770341711"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "32.48281502"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "4.862480378"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "268508200125.49"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.10927871251762"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "275747134401.06"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "39.725747544319"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.02409392963429"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "303920"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.5"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "79.2"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.34771113586857"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "1.9"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "18.1679586733351"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "2799598"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.7026099575229"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "2722008"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.2973900424771"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "5521606"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "79.6074245784901"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "85.446"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.185101615266816"
+      }
+    }
+  },
+  "FRA": {
+    "country_code": "FRA",
+    "country_name": "France",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.1"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "2.52999997138977"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "20.4300003051758"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "31.5920554143668"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "45.69341975"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "58.0334068"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "2728870246705.88"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.62035845279964"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "2858789647341.65"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "32.549417775836"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.10825492288292"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "547557"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "85.6"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "79.7"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.8454911956468"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.4"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "122.816302229722"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "34698686"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.5973833824064"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "32550240"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.4026166175936"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "67248926"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "64.1414731902028"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "80.709"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.547704235533319"
+      }
+    }
+  },
+  "GRC": {
+    "country_code": "GRC",
+    "country_name": "Greece",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "11.7"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "11.6000003814697"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "15.3400001525879"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "40.13215610917"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "39.2542671"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "46.0296817"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "205144152830.847"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.91089104761153"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "210693094498.26"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "41.8586794797791"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.252978044454509"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "128900"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.5"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "79.5"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "2.66458048486626"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.7"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "83.1775174553918"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "5459276"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.9185701142279"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "5262306"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.0814298857721"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "10721582"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "81.9908355889491"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "79.388"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.311210821229905"
+      }
+    }
+  },
+  "HRV": {
+    "country_code": "HRV",
+    "country_name": "Croatia",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "12.7"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "6.19000005722046"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "27.6700000762939"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "50.7474737516561"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "27.95854736"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "32.28965713"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "62246206340.5469"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "4.05697922398092"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "62285182814.2526"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "51.0561687422289"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.771820346498083"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "56590"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "81.6"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "75.4"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.64886746262036"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.9"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "71.8369499911645"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "2106578"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.8191055901764"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "1958675"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.1808944098236"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "4065253"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "101.803642493885"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "57.242"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.037465606839713"
+      }
+    }
+  },
+  "HUN": {
+    "country_code": "HUN",
+    "country_name": "Hungary",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "13.3"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "4.71999979019165"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "32.0900001525879"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "81.7759334458363"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "32.93541273"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "31.48017606"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "163526491433.29"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "4.60139046418905"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "161455357821.798"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "79.4602867499491"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "3.3385863538201"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "91260"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "79.3"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "72.9"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.25438629427103"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.4"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "107.069263642341"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "5121750"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "52.4171165180471"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "4649391"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "47.5828834819529"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "9771141"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "161.236220195785"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "71.644"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.364540979606319"
+      }
+    }
+  },
+  "IRL": {
+    "country_code": "IRL",
+    "country_name": "Ireland",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "6.3"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "4.42999982833862"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "18.7700004577637"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "127.927930234974"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "29.95495131"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "36.19856242"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "399122063504.148"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "3.49190099133891"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "312021470380.934"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "124.407131824676"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.939044481054341"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "68890"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.3"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "80.4"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "0.279145285726503"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.7"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "71.6263608651473"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "2486201"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.3856837217342"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "2448139"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.6143162782658"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "4934340"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "252.33506205965"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "63.405"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "1.73892417508637"
+      }
+    }
+  },
+  "ITA": {
+    "country_code": "ITA",
+    "country_name": "Italy",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "10.5"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "3.89000010490417"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "25.8700008392334"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "31.6325845578021"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "28.85296013"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "32.23684529"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "2009383867307.45"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.57473771632701"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "2083046913957.83"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "28.3202805851065"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.611246943765291"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "297730"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "85.4"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "81.1"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.3165669784612"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.6"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "200.614922916737"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "30667514"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.3443596419309"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "29061567"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.6556403580691"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "59729081"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "59.9528651429085"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "70.736"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.730852392108029"
+      }
+    }
+  },
+  "LTU": {
+    "country_code": "LTU",
+    "country_name": "Lithuania",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "13.7"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "6.44000005722046"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "25.7000007629395"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "77.3147779558153"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "28.6924646"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "13.34285394"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "54697379017.3332"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "4.85094975391134"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "53214693568.5139"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "72.0538961728715"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.33450937988024"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "62630"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "81"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "71.5"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "2.00715069627547"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.9"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "44.613396136037"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "1501699"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "53.7446491940408"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "1292438"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "46.2553508059592"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "2794137"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "149.368674128687"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "67.855"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.00495778237441003"
+      }
+    }
+  },
+  "LUX": {
+    "country_code": "LUX",
+    "country_name": "Luxembourg",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "6.9"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "0.680000007152557"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "10.8100004196167"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "205.482077538516"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "37.37033663"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "43.4281965"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "70195715495.5136"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.27627264670255"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "47763751682.0483"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "174.622129572699"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.74332075653843"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "2430"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.7"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "80.3"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "0.637730517559438"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.3"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "255.144444444444"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "306733"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "49.4729832881295"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "313268"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "50.5270167118705"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "620001"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "380.104207111215"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "91.223"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "2.22856573933619"
+      }
+    }
+  },
+  "LVA": {
+    "country_code": "LVA",
+    "country_name": "Latvia",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "14.5"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "7.28999996185303"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "23.7199993133545"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "59.8369731520854"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "26.68917626"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "11.93742418"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "34308783825.3019"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "3.19932008209607"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "34043351899.5818"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "60.542116998402"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.81140920075622"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "62090"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "79.9"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "70.8"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "2.02866903259372"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.5"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "30.8233531969721"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "1032613"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "53.9555471642699"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "881209"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "46.0444528357301"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "1913822"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "120.379090150487"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "68.222"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.577885980172143"
+      }
+    }
+  },
+  "MLT": {
+    "country_code": "MLT",
+    "country_name": "Malta",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "7.3"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "1.01999998092651"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "18.9200000762939"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "143.107347418752"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "45.98680207"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "58.32296331"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "15215714309.0974"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.47093023044587"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "14287266004.2955"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "128.328328250231"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.64206001768947"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "320"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.7"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "80.6"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "0.554908055240934"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "5.7"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "1575.19375"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "251351"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "49.8650020323496"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "252711"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "50.1349979676504"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "504062"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "271.435675668983"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "94.678"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "4.00115780679613"
+      }
+    }
+  },
+  "NLD": {
+    "country_code": "NLD",
+    "country_name": "Netherlands",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "8.8"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "2.07999992370605"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "16.1100006103516"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "82.5377127008628"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "43.62720527"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "32.52007793"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "910194347568.626"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "1.28988912106223"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "922396880622.91"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "72.7329639446286"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.63369910249593"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "33670"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "83.6"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "80.5"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.32292992136966"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.5"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "515.143272943273"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "8706652"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.1972641829856"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "8638222"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.8027358170144"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "17344874"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "155.270676645491"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "91.876"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "1.0760840670841"
+      }
+    }
+  },
+  "POL": {
+    "country_code": "POL",
+    "country_name": "Poland",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "10.8"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "9.14999961853027"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "32.1300010681152"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "55.3958465881068"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "20.54459107"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "18.0134549"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "597280564671.563"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "4.77053944228503"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "583168756380.686"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "50.6394778647645"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.227478809383"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "306170"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "81.8"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "74.1"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.97574634857663"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "3.8"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "124.001290132933"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "19567280"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.5396696205749"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "18398195"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.4603303794251"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "37965475"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "106.035324452871"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "60.037"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.0593988549139279"
+      }
+    }
+  },
+  "PRT": {
+    "country_code": "PRT",
+    "country_name": "Portugal",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "10.9"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "5.5"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "24.6800003051758"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "43.5084218458323"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "38.79939806"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "50.05620374"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "239986922638.902"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "2.65839260557085"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "238358923764.845"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "43.0562955633461"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "0.338178410046125"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "91605.6"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "83.5"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "78"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.83576972918824"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.8"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "112.288582794065"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "5421171"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "52.7030137750389"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "4865092"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "47.2969862249611"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "10286263"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "86.5647174091784"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "65.764"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.868176935448447"
+      }
+    }
+  },
+  "ROU": {
+    "country_code": "ROU",
+    "country_name": "Romania",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "13.4"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "21.2399997711182"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "30.0699996948242"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "40.3832221627516"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "27.2544319"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "17.45456919"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "249881592298.072"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "4.73858787008214"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "244427884384.718"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "44.504572920259"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "3.82785432599428"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "230080"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "79.3"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "71.8"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.84251189277405"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "5.8"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "84.1952712100139"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "9949913"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.3632740804102"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "9421735"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.6367259195898"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "19371648"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "84.8877950830106"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "54.084"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "-0.367674303311632"
+      }
+    }
+  },
+  "SVK": {
+    "country_code": "SVK",
+    "country_name": "Slovak Republic",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.8"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "2.78999996185303"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "36.0900001525879"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "92.2647855909969"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "29.2574161"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "12.37484683"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "105284375640.698"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "2.46660937052457"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "104909458871.84"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "91.8659074985651"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "2.66456133425443"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "48080"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "80.8"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "74.3"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.71522608432305"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "4.8"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "113.43899750416"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "2799029"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "51.3192750904708"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "2655118"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "48.6807249095292"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "5454147"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "184.130693089562"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "53.729"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "0.140930440682143"
+      }
+    }
+  },
+  "SVN": {
+    "country_code": "SVN",
+    "country_name": "Slovenia",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "9.9"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "4.28000020980835"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "34.0999984741211"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "83.9634681741247"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "30.20892366"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "34.01523293"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "54178877605.9999"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "2.53409090453896"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "54197185914.9271"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "75.3128544598232"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.63052260754338"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "20136.4"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.2"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "78.5"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.05739413833166"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "1.8"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "103.711934605987"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "1048857"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "50.2233656972252"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "1039528"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "49.7766343027748"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "2088385"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "159.276322633948"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "54.822"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "1.21011117651077"
+      }
+    }
+  },
+  "SWE": {
+    "country_code": "SWE",
+    "country_name": "Sweden",
+    "country_indicators": {
+      "EG.ELC.ACCS.ZS": {
+        "indicator_name": "Access to electricity (% of population)",
+        "indicator_value": "100"
+      },
+      "SP.DYN.CDRT.IN": {
+        "indicator_name": "Death rate, crude (per 1,000 people)",
+        "indicator_value": "8.6"
+      },
+      "SL.AGR.EMPL.ZS": {
+        "indicator_name": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "1.69000005722046"
+      },
+      "SL.IND.EMPL.ZS": {
+        "indicator_name": "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "indicator_value": "18.4200000762939"
+      },
+      "NE.EXP.GNFS.ZS": {
+        "indicator_name": "Exports of goods and services (% of GDP)",
+        "indicator_value": "47.8092109523511"
+      },
+      "IT.NET.BBND.P2": {
+        "indicator_name": "Fixed broadband subscriptions (per 100 people)",
+        "indicator_value": "40.24085778"
+      },
+      "IT.MLT.MAIN.P2": {
+        "indicator_name": "Fixed telephone subscriptions (per 100 people)",
+        "indicator_value": "17.44642166"
+      },
+      "NY.GDP.MKTP.CD": {
+        "indicator_name": "GDP (current US$)",
+        "indicator_value": "533879529188.454"
+      },
+      "NY.GDP.PCAP.KD.ZG": {
+        "indicator_name": "GDP per capita growth (annual %)",
+        "indicator_value": "0.957561656419784"
+      },
+      "NY.GNP.ATLS.CD": {
+        "indicator_name": "GNI, Atlas method (current US$)",
+        "indicator_value": "579809719846.27"
+      },
+      "NE.IMP.GNFS.ZS": {
+        "indicator_name": "Imports of goods and services (% of GDP)",
+        "indicator_value": "43.6246180157354"
+      },
+      "FP.CPI.TOTL.ZG": {
+        "indicator_name": "Inflation, consumer prices (annual %)",
+        "indicator_value": "1.78415097403832"
+      },
+      "AG.LND.TOTL.K2": {
+        "indicator_name": "Land area (sq. km)",
+        "indicator_value": "407310"
+      },
+      "SP.DYN.LE00.FE.IN": {
+        "indicator_name": "Life expectancy at birth, female (years)",
+        "indicator_value": "84.7"
+      },
+      "SP.DYN.LE00.MA.IN": {
+        "indicator_name": "Life expectancy at birth, male (years)",
+        "indicator_value": "81.3"
+      },
+      "MS.MIL.XPND.GD.ZS": {
+        "indicator_name": "Military expenditure (% of GDP)",
+        "indicator_value": "1.09894309352491"
+      },
+      "SP.DYN.IMRT.IN": {
+        "indicator_name": "Mortality rate, infant (per 1,000 live births)",
+        "indicator_value": "2.2"
+      },
+      "EN.POP.DNST": {
+        "indicator_name": "Population density (people per sq. km of land area)",
+        "indicator_value": "25.2360290687683"
+      },
+      "SP.POP.TOTL.FE.IN": {
+        "indicator_name": "Population, female",
+        "indicator_value": "5131863"
+      },
+      "SP.POP.TOTL.FE.ZS": {
+        "indicator_name": "Population, female (% of total population)",
+        "indicator_value": "49.9262533713563"
+      },
+      "SP.POP.TOTL.MA.IN": {
+        "indicator_name": "Population, male",
+        "indicator_value": "5147024"
+      },
+      "SP.POP.TOTL.MA.ZS": {
+        "indicator_name": "Population, male (% of total population)",
+        "indicator_value": "50.0737466286437"
+      },
+      "SP.POP.TOTL": {
+        "indicator_name": "Population, total",
+        "indicator_value": "10278887"
+      },
+      "NE.TRD.GNFS.ZS": {
+        "indicator_name": "Trade (% of GDP)",
+        "indicator_value": "91.4338289680865"
+      },
+      "SP.URB.TOTL.IN.ZS": {
+        "indicator_name": "Urban population (% of total population)",
+        "indicator_value": "87.708"
+      },
+      "SP.URB.GROW": {
+        "indicator_name": "Urban population growth (annual %)",
+        "indicator_value": "1.33004433880562"
+      }
+    }
+  }
+}
